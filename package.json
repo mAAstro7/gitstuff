@@ -1,0 +1,8 @@
+{
+  "name": "gitstuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mAAstro7/gitstuff.git",
+  "author": "Joonatan Vuorela <joonatan.vuorela@snowborngames.com>",
+  "license": "MIT"
+}
